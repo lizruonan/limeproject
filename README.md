@@ -1,5 +1,5 @@
 # A Theoretical Comparisons Between LIME and SHAP
-In this project, I compared (linear) LIME and SHAP with three properties:
+In this project, I compared (linear) LIME and SHAP in three properties below:
 - Local Accuracy
 - Missingness
 - Consistency
